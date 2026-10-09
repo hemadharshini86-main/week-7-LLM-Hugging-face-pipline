@@ -1,0 +1,5 @@
+Task,Input,Output,Confidence
+Sentiment Analysis,i am happy,POSITIVE,0.9998801946640015
+Translation,I am happy,Je suis heureux.,
+Text Summarization,"Artificial intelligence is becoming an important technology in many areas of modern life. It is used in healthcare to support medical diagnosis, in education to provide personalized learning, and in businesses to automate repetitive tasks. AI systems can analyze large amounts of data and help people make better decisions. Machine learning, natural language processing, and computer vision are some important areas of artificial intelligence. As technology continues to develop, AI is expected to become more useful in different industries while also creating new challenges related to privacy, security, and responsible use.","Artificial intelligence is becoming an important technology in many areas of modern life. Machine learning, natural language processing, and computer vision are some important areas of artificial intelligence. As technology continues to develop, AI is expected to become more useful in different industries.",
+Question Answering,What is the capital city of France?,Paris,0.9736013433794142
